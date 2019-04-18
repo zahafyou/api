@@ -5,12 +5,19 @@
     { "id": 3, "title": "Post 3" }
   ],
   "terrains": [
-    { "id": 1,
+    { 
+      "id": 1,
       "img": "https://via.placeholder.com/600/92c952",
       "title": "DSC",
       "player": "7 contre 7",
       "admin": "Madiop"
-   }
+   },
+   { "id": 2,
+    "img": "https://via.placeholder.com/600/92c952",
+    "title": "Leopold Sedar Senghor",
+    "player": "9 contre 9",
+    "admin": "Maleye"
+ }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
