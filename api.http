@@ -1,0 +1,11 @@
+
+GET https://my-json-server.typicode.com/zahafyou/api/db
+
+###
+
+POST https://my-json-server.typicode.com/zahafyou/api/posts
+Content-Type: application/json
+
+{
+  "title": "Madiop Niang"
+}

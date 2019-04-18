@@ -1,3 +1,7 @@
-# api
+# Fake Online REST Server
 
-Do this : <https://my-json-server.typicode.com/zahafyou/api> to have access to a server
+## Do this
+
+ ><https://my-json-server.typicode.com/zahafyou/api>
+
+To have access to My JSON Server - Fake online REST server
