@@ -4,8 +4,13 @@
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ],
-  "images": [
-    { "id": 1, "img": "https://via.placeholder.com/600/92c952" }
+  "terrains": [
+    { "id": 1,
+      "img": "https://via.placeholder.com/600/92c952",
+      "title": "DSC",
+      "player": "7 contre 7",
+      "admin": "Madiop"
+   }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
